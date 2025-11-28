@@ -1,13 +1,13 @@
-# 🔧 **Experiment 2: Experimental Determination of Currents and Voltages Using Mesh Analysis**
+#  **Experiment 2: Experimental Determination of Currents and Voltages Using Mesh Analysis**
 
 ---
 
-## 🎯 **Aim**
+##  **Aim**
 To determine the currents in a given DC circuit using **Mesh Analysis**, both theoretically and practically.
 
 ---
 
-## 🔩 **Apparatus Required**
+##  **Apparatus Required**
 
 | S.No | Apparatus                  | Specification | Quantity |
 |------|-----------------------------|---------------|----------|
@@ -18,12 +18,12 @@ To determine the currents in a given DC circuit using **Mesh Analysis**, both th
 
 ---
 
-## 📘 **Circuit Diagram**
+##  **Circuit Diagram**
 <img width="932" height="613" alt="image" src="https://github.com/user-attachments/assets/2a9217c8-2b97-42cc-b777-ac52bfb3d0ff" />
 
 ---
 
-## 📝 **Procedure**
+##  **Procedure**
 
 1. Connect the circuit as per the given circuit diagram.  
 2. Switch ON the RPS and set a desired input voltage.  
@@ -34,13 +34,13 @@ To determine the currents in a given DC circuit using **Mesh Analysis**, both th
 
 ---
 
-## 📐 **Theoretical Analysis**
+##  **Theoretical Analysis**
 
 <img width="393" height="581" alt="image" src="https://github.com/user-attachments/assets/b0cca0eb-5603-4afe-b706-5746a5a94164" />
 
 ---
 
-## 🔬 **Practical Values**
+##  **Practical Values**
 
 Measured currents:
 
@@ -49,13 +49,13 @@ Measured currents:
 
 ---
 
-## 🧮 **Calculations**
+##  **Calculations**
 
 <img width="393" height="581" alt="image" src="https://github.com/user-attachments/assets/5a459ffe-1988-4989-891e-1b50096da7cf" />
 
 ---
 
-## ✅ **Result**
+##  **Result**
 
 Thus, **Mesh Analysis is verified both theoretically and practically**.
 
